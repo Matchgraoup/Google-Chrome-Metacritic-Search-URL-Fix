@@ -11,4 +11,4 @@ This is the search URL you need: http://metacritic.com/search/all/%s/results
 
 This builds on FearJiri's Google-Chrome-URL-Replacer-Extension. I have added a couple of lines so that it works in a modern Chrome Browser, and icons for prettiness.
 
-If you want to install if directly in Chrome, the extension is published at: https://chrome.google.com/webstore/detail/metacritic-search-fixer/kmhekhelpcjkempcidfnkekhnkmedpih
+If you want to install it, the extension is published at: https://chrome.google.com/webstore/detail/metacritic-search-fixer/kmhekhelpcjkempcidfnkekhnkmedpih
